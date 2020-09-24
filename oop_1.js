@@ -1,7 +1,7 @@
 
 function Apple (type, color) {
 
-    let anotherVar = "day la bien gi do";
+    let anotherVar = "Không truy cập được ở bên ngoài";
     this.myType = type;
     this.myColor = color;
 
@@ -10,6 +10,8 @@ function Apple (type, color) {
     }
 
 }
+
+
 
 let apple1 = new Apple("New Zeland", "đỏ");
 let apple2 = new Apple("Viet Nam", "xanh");
